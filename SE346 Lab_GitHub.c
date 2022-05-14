@@ -12,6 +12,8 @@ int main()
 
 	printf("Cenk Bora ERSAHIN,160302023,CMPE\n");
 
+	printf("Roşna Nur Sarıkaş,18243510047,CMPE\n");
+
 
 
 }
